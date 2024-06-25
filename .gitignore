@@ -1,0 +1,6 @@
+*.doc
+*docx
+*.pptx
+*.ppt
+*.txt
+!text.txt
